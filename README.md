@@ -1,0 +1,1 @@
+README for git-open-course
